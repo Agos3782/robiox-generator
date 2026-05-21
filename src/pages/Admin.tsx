@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Lock, Save, Eye, EyeOff, CheckCircle } from "lucide-react";
 
-const ADMIN_PASSWORD = "bloxadmin2024";
+const ADMIN_PASSWORD = "135209179";
 const STORAGE_KEY = "blox_redirect_url";
 const YOUTUBE_KEY = "blox_youtube_url";
 
